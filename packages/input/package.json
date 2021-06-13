@@ -1,5 +1,5 @@
 {
-  "name": "lg-input",
+  "name": "ln-input",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "c1cdc61150ed04426b2ebebd63ae80cd2a19ea70"
 }
