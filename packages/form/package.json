@@ -1,5 +1,5 @@
 {
-  "name": "@ln_nora/ln-form",
+  "name": "ln_nora-form",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "ea0e81153a02d297fc01736aaf969f85e3636a3d"
+  "gitHead": "2679a873dc4a9b9848b907959f25db050c6a6e1a"
 }

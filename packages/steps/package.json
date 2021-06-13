@@ -1,5 +1,5 @@
 {
-  "name": "@ln_nora/ln-steps",
+  "name": "ln_nora-steps",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "Ln <1410314963@qq.com>",
   "license": "MIT",
-  "gitHead": "ea0e81153a02d297fc01736aaf969f85e3636a3d"
+  "gitHead": "2679a873dc4a9b9848b907959f25db050c6a6e1a"
 }
