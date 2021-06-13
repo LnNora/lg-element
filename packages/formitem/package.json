@@ -1,5 +1,5 @@
 {
-  "name": "ln-form-item",
+  "name": "@ln_nora/ln-form-item",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "devDependencies": {
     "async-validator": "^3.5.2"
   },
-  "gitHead": "d287d9ca9349fa014c9764a7e6aaebadddd6c574"
+  "gitHead": "ea0e81153a02d297fc01736aaf969f85e3636a3d"
 }
