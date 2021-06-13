@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "ln-steps",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "Ln <1410314963@qq.com>",
   "license": "MIT",
-  "gitHead": "c1cdc61150ed04426b2ebebd63ae80cd2a19ea70"
+  "gitHead": "d287d9ca9349fa014c9764a7e6aaebadddd6c574"
 }

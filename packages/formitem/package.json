@@ -1,5 +1,5 @@
 {
-  "name": "lg-form-item",
+  "name": "ln-form-item",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "devDependencies": {
     "async-validator": "^3.5.2"
   },
-  "gitHead": "c1cdc61150ed04426b2ebebd63ae80cd2a19ea70"
+  "gitHead": "d287d9ca9349fa014c9764a7e6aaebadddd6c574"
 }
