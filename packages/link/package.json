@@ -1,0 +1,17 @@
+{
+  "name": "ln_nora-link",
+  "version": "0.0.0",
+  "description": "ln_nora-link component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "author": "Luo <1410314963@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "del": "rimraf dist"
+  },
+  "dependencies": {
+  },
+  "keywords": []
+}
